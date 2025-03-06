@@ -1,0 +1,11 @@
+1. AWS Academy Cloud Foundations [107631]
+Access Here
+2. AWS Academy Introduction to Cloud: Semester 1 [94094]
+Access Here
+3. -AWS Academy Introduction to Cloud: Semester 2 [94095]
+Access Here
+4. AWS Academy Cloud Architecting [107632]
+Access Here
+5. AWS Academy Learner Lab [100719]
+= = = = = =
+When you are done with the lab, you need to press stop

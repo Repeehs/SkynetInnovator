@@ -1,0 +1,44 @@
+Report:
+D1 - development of basic cloud infrastructure and databse: 27/3/2025 (3:00 p.m) - 10%
+D2 - Enhancement of Cloud 
+Infrastructure and Deployment of an Application: 14/4/2025 (3:00 p.m) - 60%
+Reassessment: 28/4/2025 (3:00 p.m)
+
+Report requirements - Minimal Requirements of the Application (D1):
+• Must use a database. 
+• Must include a client (can be a browser or a mobile app) 
+• Must use a server accepting requests from the client. 
+• Should use static objects such as images. 
+
+The deployment of the application in the cloud should consider the following requirements (D1):
+• The application must be highly available by using AWS services (e.g. 2x servers in 
+different Availability Zones and ELB) 
+• Setup users and roles (where possible) 
+• Design/define secure VPCs (use of subnets private and public). 
+• It should be noted that 
+PaaS infrastructure such as Elastic Beanstalk must not be used in this project. 
+• Ensure application security by using good security groups/settings.  
+• Use a database with redundancy. 
+• Design security, monitoring, and logging (cloud trail, cloud watch) 
+• Use of content distribution of static objects (e.g., images) 
+• Use of S3
+
+The report for this deliverable (D2) should further contain the followings:
+• Description of every step in the design, development and deployment of the 
+application supported by evidence (e.g., screenshots) 
+	o Make sure that your group number is reflected in the name of any AWS feature/services that you have created in your project. For example, if you 
+have created an ELB and your group number is 3, then you may name your ELB as Group3_ELB. This is a mandatory requirement and if it is not followed for any AWS service/feature in your project then you may not get any mark for that AWS service/feature. 
+• A cost breakdown that covers the current scenarios of the application and then 
+forecast different load scenarios. 
+• Test cases (with test results documented) 
+• A discussion on the security approach and demonstrating best-practices. 
+• A theoretical discussion of future enhancements and other cloud features that 
+could be used. 
+=========
+Presentation:
+Note: 
++ The content of your slides should be taken from your report (no new things)
++ Take a video for your presentation (by urself)
+
+
+
