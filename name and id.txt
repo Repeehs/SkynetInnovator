@@ -1,0 +1,11 @@
+Group Name: Skynet Innovators
+Leader ID:24196072
+Leader Name:Trong Trung Hieu Nguyen
+Student 1 ID: 24196075
+Student 1 Name: Tan Phu Van
+Student 2 ID: 24196076
+Student 2 Name: Dai Nam Vu
+Student 3 ID: 24196081
+Student 3 Name: Nguyen Quang Huy Tran
+
+
